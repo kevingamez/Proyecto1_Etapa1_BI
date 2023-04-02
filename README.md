@@ -2,7 +2,7 @@
 
 <strong>Curso:</strong> Inteligencia de Negocios 2023-10
 
-<strong>Sección:3</strong> 
+<strong>Sección: 3</strong> 
 
 <strong>Integrantes:</strong>
 
